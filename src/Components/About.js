@@ -1,16 +1,16 @@
 import React from "react";
-import aboutImage from "../images/about.png";
+import aboutImage from "../images/th.jpg";
 
 const About = () => {
   return (
     <div id="about">
       <div className="about-text">
-        <h1>UPCOMING EVENT</h1>
+        <h1>About us</h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus
-          velit officiis quaerat et officia, natus repudiandae dolor
-          necessitatibus dolore eligendi optio quasi .
+          Order a delicious pizza on the go, anywhere, anytime. Pizza Hut is happy to assist you with your home delivery. 
+           Every time you order, you get a hot and fresh pizza delivered at your doorstep in less than thirty minutes.
         </p>
+       <p>Hurry up and place your order now!</p>
         <button>React More</button>
       </div>
       <div className="about-image">
